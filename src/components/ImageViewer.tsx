@@ -72,7 +72,7 @@ export function ImageViewer({
       >
         <div
           onClick={() => onModalClose()}
-          className="relative group cursor-pointer overflow-hidden rounded-2xl w-96 h-96 mx-auto"
+          className="relative group cursor-pointer overflow-hidden rounded-2xl w-full max-w-[384px] aspect-square mx-auto"
         >
           <img
             src={imageUrl}
