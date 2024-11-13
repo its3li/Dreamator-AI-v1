@@ -44,7 +44,7 @@ export function HelpTooltip() {
                   <li>Enter image description</li>
                   <li>Click Generate or press Enter</li>
                   <li>Wait for generation</li>
-                  <li>Download or share your image</li>
+                  <li>Click The Image To Download it or share It With Your Freinds</li>
                 </ol>
                 <p className="mt-2">Made by ali 👌ㅤ</p>
               </div>
@@ -56,7 +56,7 @@ export function HelpTooltip() {
                   <li>أدخل وصف الصورة</li>
                   <li>انقر على (Generate) أو اضغط Enter</li>
                   <li>انتظر عملية الإنشاء</li>
-                  <li>حمّل أو شارك صورتك</li>
+                  <li> اضغط علي الصورة لتحملها أو تشاركها مع اصحابك</li>
                 </ol>
                 <p className="mt-2">من صنع علي 😁ㅤ</p>
               </div>
