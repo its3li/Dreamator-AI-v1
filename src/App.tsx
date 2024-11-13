@@ -147,7 +147,7 @@ function App() {
       </div>
 
       <footer className="text-center text-gray-400 mt-8 font-arabic">
-        <p>💻 Built with ❤ by علي محمود using <span className="font-semibold">React</span>, <span className="font-semibold">Vite</span>, <span className="font-semibold">Tailwind CSS</span>, and <span className="font-semibold">Pollinations API</span>.</p>
+        <p>💻 Built with ❤ by Ali Mahmoud using <span className="font-semibold">React</span>, <span className="font-semibold">Vite</span>, <span className="font-semibold">Tailwind CSS</span>, and <span className="font-semibold">Pollinations API</span>.</p>
         <p>All rights reserved. © 2024 Dreamator AI</p>
       </footer>
     </div>
